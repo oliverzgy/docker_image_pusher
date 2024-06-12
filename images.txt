@@ -1,5 +1,6 @@
 nginx
 odoo
+postgres
 postgres:11
 metabase/metabase:v0.49.12
 #支持私库
