@@ -1,5 +1,7 @@
 nginx
 odoo
+odoo:12
+odoo:16
 odoo:17
 postgres
 postgres:16
