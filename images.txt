@@ -1,9 +1,12 @@
 nginx
+nginx:alpine
+node:lts-alpine
 odoo
 odoo:12
 odoo:16
 odoo:17
 postgres
+postgres:15
 postgres:16
 postgres:11
 metabase/metabase:v0.49.12
