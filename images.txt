@@ -1,5 +1,5 @@
 metabase/metabase:v0.49.12
-metabase/metabase:v0.50.0
+metabase/metabase:v0.50.4
 nginx
 nginx:alpine
 node:lts-alpine
