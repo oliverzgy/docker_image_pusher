@@ -13,6 +13,7 @@ postgres:15
 postgres:16
 postgres:11
 redis:7.2-alpine
+ghcr.io/umami-software/umami:postgresql-v2.12.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
