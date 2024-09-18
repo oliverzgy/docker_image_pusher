@@ -3,6 +3,7 @@ ghost:5-alpine
 metabase/metabase:v0.49.12
 metabase/metabase:v0.50.6
 mongo:7.0
+mysql:8.4.2
 nginx
 nginx:alpine
 node:lts-alpine
