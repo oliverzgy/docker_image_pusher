@@ -2,6 +2,7 @@ ghost
 ghost:5-alpine
 openjdk:8
 openjdk:8-jdk-alpine
+openjdk:8u102-jdk
 metabase/metabase:v0.49.12
 metabase/metabase:v0.50.6
 mongo:7.0
