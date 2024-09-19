@@ -9,6 +9,7 @@ mongo:7.0
 mysql:8.4.2
 nginx
 nginx:alpine
+node:14-alpine
 node:lts-alpine
 odoo
 odoo:12
