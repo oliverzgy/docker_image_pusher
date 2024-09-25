@@ -1,4 +1,5 @@
 airbyte/source-postgres:1.0.52
+bunkerity/bunkerweb-ui:1.5.10
 ghost
 ghost:5-alpine
 openjdk:8
