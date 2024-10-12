@@ -21,6 +21,7 @@ odoo
 odoo:12
 odoo:16
 odoo:17
+odoo:18
 postgres
 postgres:15
 postgres:15-alpine
