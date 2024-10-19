@@ -1,3 +1,4 @@
+mongo-express:latest
 airbyte/source-postgres:1.0.52
 bunkerity/bunkerweb:1.5.10
 bunkerity/bunkerweb-autoconf:1.5.10
