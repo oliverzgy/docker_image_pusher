@@ -5,6 +5,7 @@ bunkerity/bunkerweb-autoconf:1.5.10
 bunkerity/bunkerweb-scheduler:1.5.10
 bunkerity/bunkerweb-ui:1.5.10
 clickhouse/clickhouse-server:23
+clickhouse/clickhouse-server:24
 debian:bullseye-slim
 tecnativa/docker-socket-proxy:nightly
 ghost
