@@ -16,6 +16,7 @@ openjdk:8u102-jdk
 mariadb:10.10
 metabase/metabase:v0.49.12
 metabase/metabase:v0.50.6
+metabase/metabase:v0.50.27
 metabase/metabase:v0.51.4
 mongo:latest
 mongo:7.0
