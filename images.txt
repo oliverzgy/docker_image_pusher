@@ -1,4 +1,4 @@
-metabase/metabase:v0.50.30
+metabase/metabase:v0.50.34.1
 mongo-express:latest
 airbyte/source-postgres:1.0.52
 bunkerity/bunkerweb:1.5.10
