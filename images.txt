@@ -1,3 +1,6 @@
+apache/airflow:2.10.3
+redis:7.2-bookworm
+postgres:13
 metabase/metabase:v0.50.11
 mongo-express:latest
 airbyte/source-postgres:1.0.52
