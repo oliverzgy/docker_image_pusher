@@ -1,3 +1,4 @@
+dpage/pgadmin4
 apache/airflow:2.10.3
 redis:7.2-bookworm
 postgres:13
