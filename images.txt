@@ -5,6 +5,10 @@ postgres:13
 metabase/metabase:v0.50.11
 mongo-express:latest
 airbyte/source-postgres:1.0.52
+bunkerity/bunkerweb:1.5.12
+bunkerity/bunkerweb-autoconf:1.5.12
+bunkerity/bunkerweb-scheduler:1.5.12
+bunkerity/bunkerweb-ui:1.5.12
 bunkerity/bunkerweb:1.5.10
 bunkerity/bunkerweb-autoconf:1.5.10
 bunkerity/bunkerweb-scheduler:1.5.10
