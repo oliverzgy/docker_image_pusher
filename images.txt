@@ -1,3 +1,5 @@
+apache/airflow:2.10.5
+apache/airflow:2.11.0
 redis:latest
 debian:bookworm-slim
 metabase/metabase:v0.52.9
