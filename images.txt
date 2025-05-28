@@ -1,5 +1,5 @@
+python:3.11.10-slim-bullseye
 postgres:14.6
-dispatch-local:latest
 apache/airflow:2.10.5
 apache/airflow:2.11.0
 redis:latest
