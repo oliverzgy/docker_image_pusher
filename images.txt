@@ -1,3 +1,4 @@
+metabase/metabase:v0.54.x
 metabase/metabase:v0.55.x
 ghcr.io/umami-software/umami:postgresql-v2.18.1
 bunkerity/bunkerweb:1.5.12
