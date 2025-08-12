@@ -1,8 +1,8 @@
+ghcr.io/umami-software/umami:postgresql-v2.19.0
 metabase/metabase-enterprise:latest
 clickhouse/clickhouse-server:25.6
 metabase/metabase:v0.54.x
 metabase/metabase:v0.55.x
-ghcr.io/umami-software/umami:postgresql-v2.18.1
 bunkerity/bunkerweb:1.5.12
 python:3.11.10-slim-bullseye
 postgres:14.6
