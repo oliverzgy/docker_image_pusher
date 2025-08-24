@@ -1,3 +1,4 @@
+ntop/ntopng:latest
 ghcr.io/umami-software/umami:postgresql-v2.19.0
 metabase/metabase-enterprise:latest
 clickhouse/clickhouse-server:25.6
