@@ -1,3 +1,8 @@
+metabase/metabase:v0.56.x
+metabase/metabase:v0.55.x
+metabase/metabase:v0.54.x
+metabase/metabase:v0.53.x
+metabase/metabase:v0.52.x
 metabase/metabase:v0.51.x
 metabase/metabase:v0.50.x
 ntop/ntopng:latest
