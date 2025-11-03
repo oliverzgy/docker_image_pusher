@@ -1,3 +1,4 @@
+metabase/metabase:v0.51.x
 metabase/metabase:v0.50.x
 ntop/ntopng:latest
 ghcr.io/umami-software/umami:postgresql-v2.19.0
