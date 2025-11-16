@@ -1,3 +1,4 @@
+metabase/metabase:v0.57.x
 metabase/metabase:v0.56.x
 metabase/metabase:v0.55.x
 metabase/metabase:v0.54.x
