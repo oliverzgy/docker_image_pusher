@@ -1,7 +1,7 @@
-bunkerity/bunkerweb:1.6.14
-bunkerity/bunkerweb-autoconf:1.6.14
-bunkerity/bunkerweb-scheduler:1.6.14
-bunkerity/bunkerweb-ui:1.6.14
+bunkerity/bunkerweb:1.6.15
+bunkerity/bunkerweb-autoconf:1.6.15
+bunkerity/bunkerweb-scheduler:1.6.15
+bunkerity/bunkerweb-ui:1.6.15
 mongo:latest
 odoo:19
 metabase/metabase:v0.57.x
