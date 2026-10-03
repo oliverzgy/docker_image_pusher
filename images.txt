@@ -48,9 +48,6 @@ debian:bullseye-slim
 tecnativa/docker-socket-proxy:nightly
 ghost
 ghost:5-alpine
-openjdk:8
-openjdk:8-jdk-alpine
-openjdk:8u102-jdk
 mariadb:10.10
 metabase/metabase:v0.49.12
 metabase/metabase:v0.50.6
