@@ -1,3 +1,4 @@
+odoo:20
 bunkerity/bunkerweb:1.6.15
 bunkerity/bunkerweb-autoconf:1.6.15
 bunkerity/bunkerweb-scheduler:1.6.15
